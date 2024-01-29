@@ -1,0 +1,6 @@
+@RotaCompanyProject_HostAddress = http://localhost:5232
+
+GET {{RotaCompanyProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
